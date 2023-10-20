@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(232, 232, 232);
+}
+
+.container{
+    background-color: white;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: rgb(190, 190, 190);
+    border-top: none;
+}
+
+.container-inside{
+    padding: 8px;
+}
+
+.button{
+    padding: 5px;
+}
+
+#btn-aceptar{
+    background-color: rgb(123, 113, 255);
+    border: 0px;
+    color: white;
+}
+#btn-cancelar{
+    background-color: rgb(145, 145, 145);
+    border: 0px;
+    color: white;
+ }
